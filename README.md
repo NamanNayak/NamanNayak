@@ -15,7 +15,7 @@
 ## 📈 Stats
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanNayak&theme=blue-green" width="500"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanNayak&theme=blue-green" width="400"></a>
   
 </p>
 
