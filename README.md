@@ -1,5 +1,6 @@
 ### Hi there 👋
 ## I am a Cloud and Devops enthusiast.
+## Learning Devops through @KodeKloud and Web Development through free resources. 
 
 # ⚡ Technologies
 
