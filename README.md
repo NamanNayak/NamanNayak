@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I am a Cloud and Devops enthusiast. Learning Devops through @KodeKloud and Web Development through free resources. 
+## I am a Cloud and Devops enthusiast. Learning Devops through !(https://img.shields.io/badge/kodekloud-0078D6?style=for-the-badge&logo=kodekloud&logoColor=white) and Web Development through free resources. 
 
 # ⚡ Technologies
 
