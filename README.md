@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 ## I am a Cloud and Devops enthusiast. Learning Devops through @KodeKloud and Web Development through free resources. 
 
 # ⚡ Technologies
@@ -16,7 +17,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## 🛠️Tools Used
+## 🛠️ Tools Used
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -30,10 +31,8 @@
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-
 # 📈 Stats
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanNayak&theme=blue-green" width="400"></a>
 </p>
-
